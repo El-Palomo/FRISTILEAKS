@@ -237,7 +237,7 @@ fristigod
 1. El directory home del usuario FRISTIGOD es: /VAR/FRISTIGOD. 
 2. Analizamos el archivo .BASH_HISTORY y encontramos comandos interesantes. Al parecer el binario "doCom" es utilizado para ingresar como otro usuario.
 
-<img src="https://github.com/El-Palomo/FRISTILEAKS/blob/main/fristileaks1.jpg" width="80%"></img>
+<img src="https://github.com/El-Palomo/FRISTILEAKS/blob/main/fristileaks14.jpg" width="80%"></img>
 
 3. Al parecer ejecutar el comando es super facil y obtenemos ROOT.
 
